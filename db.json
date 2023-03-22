@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Van Tung",
+      "username": "vantung345",
+      "email": "vantung@gamil.com",
+      "phone": "098574387",
+      "id": 3
+    },
+    {
+      "name": "Van Tung",
+      "username": "vantung345",
+      "email": "vantung@gamil.com",
+      "phone": "098574387",
+      "id": 4
+    },
+    {
+      "name": "Phuong Thuy",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gamil.com",
+      "phone": "098574387",
+      "id": 5
+    },
+    {
+      "name": "Van Tung",
+      "username": "vantung345",
+      "email": "vantung@gamil.com",
+      "phone": "098574387",
+      "id": 6
+    },
+    {
+      "name": "Van Tung",
+      "username": "vantung345",
+      "email": "vantung@gamil.com",
+      "phone": "098574387",
+      "id": 7
+    }
+  ]
+}
